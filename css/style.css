@@ -1,0 +1,19 @@
+.container {
+/*	border: 2px solid red;*/
+
+
+	width: 1052px;
+	margin: 0 auto;
+}
+
+.card {
+	width: 300px;
+	padding: 20px;
+	background-color: lightblue;
+	display: inline-block;
+}
+
+.cardimg {
+	width: 100%;
+	margin: 20px 0;
+}
